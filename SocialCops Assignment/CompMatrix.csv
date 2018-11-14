@@ -1,0 +1,56 @@
+"","Commodity","Year","Type","msprice","Deseasonalized"
+"1","bajri",2014,"Kharif Crops",1250,1422.66168752809
+"2","bajri",2015,"Kharif Crops",1275,1405.90825859685
+"3","bajri",2016,"Kharif Crops",1330,1606.84758376305
+"4","coconut",2014,"Other Crops",1425,1282.12100017285
+"5","coconut",2015,"Other Crops",1500,1423.4766593492
+"6","coconut",2016,"Other Crops",1600,1071.91913138749
+"7","cotton",2014,"Kharif Crops",3750,3953.26920084461
+"8","cotton",2015,"Kharif Crops",3800,4037.15592219091
+"9","cotton",2016,"Kharif Crops",3860,4438.17355061957
+"10","gr.nut kernels",2014,"Kharif Crops",4000,6115.15019057577
+"11","gr.nut kernels",2015,"Kharif Crops",4030,7223.53980950061
+"12","gr.nut kernels",2016,"Kharif Crops",4120,8268.7970695483
+"13","maize",2014,"Kharif Crops",1310,1179.83178479962
+"14","maize",2015,"Kharif Crops",1325,1298.14038321007
+"15","maize",2016,"Kharif Crops",1365,1435.91908179246
+"16","mustard",2014,"Rabi Crops",3100,3726.47793489654
+"17","mustard",2015,"Rabi Crops",3350,3406.76466054592
+"18","mustard",2016,"Rabi Crops",NA,3587.13799641654
+"19","niger-seed",2014,"Kharif Crops",3600,3983.33333333333
+"20","niger-seed",2015,"Kharif Crops",3650,6772.35795136928
+"21","niger-seed",2016,"Kharif Crops",3725,4919.18545117572
+"22","paddy-unhusked",2014,"Kharif Crops",1360,1701.99719341209
+"23","paddy-unhusked",2015,"Kharif Crops",1410,1642.15810967723
+"24","paddy-unhusked",2016,"Kharif Crops",1470,1759.73784622468
+"25","pigeon pea (tur)",2014,"Kharif Crops",4350,4387.31399893626
+"26","pigeon pea (tur)",2015,"Kharif Crops",4425,6606.47585298515
+"27","pigeon pea (tur)",2016,"Kharif Crops",4625,7434.15762754848
+"28","rice(paddy-hus)",2014,"Kharif Crops",1400,2660.27150358052
+"29","rice(paddy-hus)",2015,"Kharif Crops",1450,2815.55417675203
+"30","rice(paddy-hus)",2016,"Kharif Crops",1510,2950.42732506642
+"31","safflower",2014,"Rabi Crops",3050,2410.30242216722
+"32","safflower",2015,"Rabi Crops",3300,2462.48374660194
+"33","safflower",2016,"Rabi Crops",NA,2529.12799431611
+"34","sesamum",2014,"Kharif Crops",4600,9255.47634569958
+"35","sesamum",2015,"Kharif Crops",4700,7314.80744820802
+"36","sesamum",2016,"Kharif Crops",4800,5895.0487113273
+"37","sorgum(jawar)",2014,"Kharif Crops",1550,1617.83437206683
+"38","sorgum(jawar)",2015,"Kharif Crops",1590,1571.84996449852
+"39","sorgum(jawar)",2016,"Kharif Crops",1650,1672.54147599665
+"40","spilt gerrn gram",2014,"Kharif Crops",4600,8511.96055522651
+"41","spilt gerrn gram",2015,"Kharif Crops",4650,9784.14975814232
+"42","spilt gerrn gram",2016,"Kharif Crops",4800,8684.5336564222
+"43","split black gram",2014,"Kharif Crops",4350,7531.09024436175
+"44","split black gram",2015,"Kharif Crops",4425,11086.2452968061
+"45","split black gram",2016,"Kharif Crops",4575,14546.6933379456
+"46","sugarcane",2016,"Other Crops",230,699.708547487056
+"47","sunflower",2014,"Kharif Crops",3750,3039.40660068342
+"48","sunflower",2015,"Kharif Crops",3800,3179.77214743245
+"49","sunflower",2016,"Kharif Crops",3850,3307.53449454135
+"50","wheat(husked)",2014,"Rabi Crops",1450,1563.71963586292
+"51","wheat(husked)",2015,"Rabi Crops",1525,1622.13075904442
+"52","wheat(husked)",2016,"Rabi Crops",NA,1773.59797327401
+"53","wheat(unhusked)",2014,"Rabi Crops",1450,2956.02400135944
+"54","wheat(unhusked)",2015,"Rabi Crops",1525,3070.36516412298
+"55","wheat(unhusked)",2016,"Rabi Crops",NA,3214.87257852587
